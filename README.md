@@ -6,3 +6,5 @@
   </a>
 </div> 
   <img src="https://komarev.com/ghpvc/?username=kinkeadian25&style=flat-square&color=blue" alt=""/>
+
+  More coming soon! My current job and schoolwork have slowed down my personal and open source work!
